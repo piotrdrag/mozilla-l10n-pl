@@ -45,9 +45,9 @@
 <!ENTITY priorityColumn.label "Priorytet">
 <!ENTITY tagsColumn.label "Etykieta">
 <!ENTITY accountColumn.label "Konto">
-<!ENTITY statusColumn.label "Status">
+<!ENTITY statusColumn.label "Stan">
 <!ENTITY sizeColumn.label "Rozmiar">
-<!ENTITY junkStatusColumn.label "Status niechcianej poczty">
+<!ENTITY junkStatusColumn.label "Stan niechcianej poczty">
 <!ENTITY unreadColumn.label "Nieprzeczytane">
 <!ENTITY totalColumn.label "Razem">
 <!ENTITY readColumn.label "Przeczytano">
@@ -67,9 +67,9 @@
 <!ENTITY priorityColumn2.tooltip "Sortowanie według priorytetu">
 <!ENTITY tagsColumn2.tooltip "Sortowanie według etykiet">
 <!ENTITY accountColumn2.tooltip "Sortowanie według konta">
-<!ENTITY statusColumn2.tooltip "Sortowanie według statusu">
+<!ENTITY statusColumn2.tooltip "Sortowanie według stanu">
 <!ENTITY sizeColumn2.tooltip "Sortowanie według rozmiaru">
-<!ENTITY junkStatusColumn2.tooltip "Sortowanie według statusu niechcianej poczty">
+<!ENTITY junkStatusColumn2.tooltip "Sortowanie według stanu niechcianej poczty">
 <!ENTITY unreadColumn2.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
 <!ENTITY totalColumn2.tooltip "Liczba wszystkich wiadomości w wątku">
 <!ENTITY readColumn2.tooltip "Sortowanie według liczby przeczytanych wiadomości">

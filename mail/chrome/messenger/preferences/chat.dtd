@@ -11,7 +11,7 @@
 <!ENTITY reportIdleAfter.accesskey "W">
 <!ENTITY idleTime "minutach">
 
-<!ENTITY andSetStatusToAway.label "i ustawiaj status na „Zaraz wracam” z opisem:">
+<!ENTITY andSetStatusToAway.label "i ustawiaj stan na „Zaraz wracam” z opisem:">
 <!ENTITY andSetStatusToAway.accesskey "u">
 
 <!ENTITY sendTyping.label "Wysyłaj powiadomienia o pisaniu w trakcie rozmów">

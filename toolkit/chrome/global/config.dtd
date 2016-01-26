@@ -17,7 +17,7 @@
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nazwa" >
-<!ENTITY lockColumn.label "Status" >
+<!ENTITY lockColumn.label "Stan">
 <!ENTITY typeColumn.label "Typ" >
 <!ENTITY valueColumn.label "Wartość" >
 

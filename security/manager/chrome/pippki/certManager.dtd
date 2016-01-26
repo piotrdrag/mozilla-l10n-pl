@@ -82,7 +82,7 @@
 <!ENTITY exceptionMgr.certlocation.url        "Adres:">
 <!ENTITY exceptionMgr.certlocation.download   "Pobierz certyfikat">
 <!ENTITY exceptionMgr.certlocation.accesskey  "b">
-<!ENTITY exceptionMgr.certstatus.caption      "Status certyfikatu">
+<!ENTITY exceptionMgr.certstatus.caption "Stan certyfikatu">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Wyświetl…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "W">
 <!ENTITY exceptionMgr.permanent.label         "Zachowaj ten wyjątek na stałe">

@@ -134,7 +134,7 @@
 <!ENTITY attachVCard.accesskey "v">
 <!ENTITY returnReceiptMenu.label "Żądaj potwierdzenia doręczenia">
 <!ENTITY returnReceiptMenu.accesskey "d">
-<!ENTITY dsnMenu.label "Informuj o statusie dostarczania">
+<!ENTITY dsnMenu.label "Informuj o stanie dostarczania">
 <!ENTITY dsnMenu.accesskey "n">
 <!ENTITY deliveryFormatMenu.label "Wyślij wiadomość jako">
 <!ENTITY deliveryFormatMenu.accesskey "W">

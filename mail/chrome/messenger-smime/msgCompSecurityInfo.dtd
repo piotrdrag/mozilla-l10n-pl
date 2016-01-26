@@ -11,6 +11,6 @@
 <!ENTITY view.label "Pokaż">
 <!ENTITY view.accesskey "k">
 <!ENTITY tree.recipient "Adresat:">
-<!ENTITY tree.status "Status:">
+<!ENTITY tree.status "Stan:">
 <!ENTITY tree.issuedDate "Wydano:">
 <!ENTITY tree.expiresDate "Wygasa:">

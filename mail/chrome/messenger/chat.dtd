@@ -14,8 +14,8 @@
 <!ENTITY chat.accountWizard.button "Nowe konto">
 
 <!ENTITY chat.noConnectedAccount.title "Konta czat nie są podłączone.">
-<!ENTITY chat.noConnectedAccount.description "Konta czat można podłączyć w oknie „Status czatu”:">
-<!ENTITY chat.showAccountManager.button "Wyświetl status czatu">
+<!ENTITY chat.noConnectedAccount.description "Konta czat można podłączyć w oknie „Stan czatu”:">
+<!ENTITY chat.showAccountManager.button "Wyświetl stan czatu">
 
 <!ENTITY chat.participants "Uczestnicy:">
 <!ENTITY chat.previousConversations "Wcześniejsze rozmowy:">

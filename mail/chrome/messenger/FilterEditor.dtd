@@ -45,7 +45,7 @@
 <!ENTITY markMessageStarred.label "Oznacz gwiazdką">
 <!ENTITY setPriority.label "Ustaw priorytet na">
 <!ENTITY addTag.label "Oznacz etykietą">
-<!ENTITY setJunkScore.label "Ustaw status niechcianej poczty na">
+<!ENTITY setJunkScore.label "Ustaw stan niechcianej poczty na">
 <!ENTITY deleteMessage.label "Usuń wiadomość">
 <!ENTITY deleteFromPOP.label "Usuń z serwera POP">
 <!ENTITY fetchFromPOP.label "Pobierz treść z serwera POP">

@@ -6,7 +6,7 @@
 <!ENTITY window.width "39em">
 
 <!ENTITY treehead.sitename.label      "Witryna">
-<!ENTITY treehead.status.label        "Status">
+<!ENTITY treehead.status.label "Stan">
 <!ENTITY removepermission.label       "Usuń witrynę">
 <!ENTITY removepermission.accesskey   "U">
 <!ENTITY removeallpermissions.label   "Usuń wszystkie witryny">

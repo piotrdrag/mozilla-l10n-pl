@@ -80,4 +80,4 @@
 
 <!ENTITY  update.details.label            "Szczegóły">
 <!ENTITY  update.installedOn.label        "Zainstalowano:">
-<!ENTITY  update.status.label             "Status:">
+<!ENTITY update.status.label "Stan:">
